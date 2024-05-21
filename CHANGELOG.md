@@ -1,5 +1,14 @@
 # Changelog
 
+## [11.6.0](https://github.com/LazyVim/LazyVim/compare/v11.5.0...v11.6.0) (2024-05-21)
+
+
+### Features
+
+* **markdown:** add formatter for mdx ([ae6d8f1](https://github.com/LazyVim/LazyVim/commit/ae6d8f1a34fff49f9f1abf9fdd8a559c95b85cf3))
+* **markdown:** configure conform for markdown files ([#2308](https://github.com/LazyVim/LazyVim/issues/2308)) ([9eec03d](https://github.com/LazyVim/LazyVim/commit/9eec03d890f7846e6f47e12ebbe369c7177fd5f1))
+* **telescope:** add telescope jumplist keymap ([#3268](https://github.com/LazyVim/LazyVim/issues/3268)) ([79608fb](https://github.com/LazyVim/LazyVim/commit/79608fbc4fe7d5fbd2d238e8d8ebfce7d576b7c2))
+
 ## [11.5.0](https://github.com/LazyVim/LazyVim/compare/v11.4.1...v11.5.0) (2024-05-21)
 
 
